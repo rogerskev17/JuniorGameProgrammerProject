@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programs\\Programming\\IDEs\\Unity\\Unity Projects\\Personal Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{177895CB-4F47-3755-436B-A776DA2B4B54}|Assembly-CSharp.csproj|D:\\Programs\\Programming\\IDEs\\Unity\\Unity Projects\\Personal Project\\assets\\scripts\\treasure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177895CB-4F47-3755-436B-A776DA2B4B54}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\treasure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177895CB-4F47-3755-436B-A776DA2B4B54}|Assembly-CSharp.csproj|d:\\programs\\programming\\ides\\unity\\unity projects\\personal project\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177895CB-4F47-3755-436B-A776DA2B4B54}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177895CB-4F47-3755-436B-A776DA2B4B54}|Assembly-CSharp.csproj|D:\\Programs\\Programming\\IDEs\\Unity\\Unity Projects\\Personal Project\\assets\\scripts\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177895CB-4F47-3755-436B-A776DA2B4B54}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177895CB-4F47-3755-436B-A776DA2B4B54}|Assembly-CSharp.csproj|D:\\Programs\\Programming\\IDEs\\Unity\\Unity Projects\\Personal Project\\assets\\scripts\\enemy2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177895CB-4F47-3755-436B-A776DA2B4B54}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177895CB-4F47-3755-436B-A776DA2B4B54}|Assembly-CSharp.csproj|D:\\Programs\\Programming\\IDEs\\Unity\\Unity Projects\\Personal Project\\assets\\scripts\\enemy1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177895CB-4F47-3755-436B-A776DA2B4B54}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177895CB-4F47-3755-436B-A776DA2B4B54}|Assembly-CSharp.csproj|D:\\Programs\\Programming\\IDEs\\Unity\\Unity Projects\\Personal Project\\assets\\scripts\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177895CB-4F47-3755-436B-A776DA2B4B54}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177895CB-4F47-3755-436B-A776DA2B4B54}|Assembly-CSharp.csproj|D:\\Programs\\Programming\\IDEs\\Unity\\Unity Projects\\Personal Project\\assets\\scripts\\powerup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177895CB-4F47-3755-436B-A776DA2B4B54}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\powerup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Powerup.cs",
+              "DocumentMoniker": "D:\\Programs\\Programming\\IDEs\\Unity\\Unity Projects\\Personal Project\\Assets\\Scripts\\Powerup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Powerup.cs",
+              "ToolTip": "D:\\Programs\\Programming\\IDEs\\Unity\\Unity Projects\\Personal Project\\Assets\\Scripts\\Powerup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Powerup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T20:36:05.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Treasure.cs",
+              "DocumentMoniker": "D:\\Programs\\Programming\\IDEs\\Unity\\Unity Projects\\Personal Project\\Assets\\Scripts\\Treasure.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Treasure.cs",
+              "ToolTip": "D:\\Programs\\Programming\\IDEs\\Unity\\Unity Projects\\Personal Project\\Assets\\Scripts\\Treasure.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Treasure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T17:41:18.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\Programs\\Programming\\IDEs\\Unity\\Unity Projects\\Personal Project\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "D:\\Programs\\Programming\\IDEs\\Unity\\Unity Projects\\Personal Project\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAAAI4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T16:58:03.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SpawnManager.cs",
+              "DocumentMoniker": "D:\\Programs\\Programming\\IDEs\\Unity\\Unity Projects\\Personal Project\\Assets\\Scripts\\SpawnManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnManager.cs",
+              "ToolTip": "D:\\Programs\\Programming\\IDEs\\Unity\\Unity Projects\\Personal Project\\Assets\\Scripts\\SpawnManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpawnManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:23:20.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enemy2.cs",
+              "DocumentMoniker": "D:\\Programs\\Programming\\IDEs\\Unity\\Unity Projects\\Personal Project\\Assets\\Scripts\\Enemy2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy2.cs",
+              "ToolTip": "D:\\Programs\\Programming\\IDEs\\Unity\\Unity Projects\\Personal Project\\Assets\\Scripts\\Enemy2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T19:56:23.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Enemy1.cs",
+              "DocumentMoniker": "D:\\Programs\\Programming\\IDEs\\Unity\\Unity Projects\\Personal Project\\Assets\\Scripts\\Enemy1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy1.cs",
+              "ToolTip": "D:\\Programs\\Programming\\IDEs\\Unity\\Unity Projects\\Personal Project\\Assets\\Scripts\\Enemy1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T19:56:20.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FollowPlayer.cs",
+              "DocumentMoniker": "D:\\Programs\\Programming\\IDEs\\Unity\\Unity Projects\\Personal Project\\Assets\\Scripts\\FollowPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FollowPlayer.cs",
+              "ToolTip": "D:\\Programs\\Programming\\IDEs\\Unity\\Unity Projects\\Personal Project\\Assets\\Scripts\\FollowPlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FollowPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:18:15.101Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
